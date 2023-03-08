@@ -1,13 +1,13 @@
 
 ## Description
 
-[Nest Media Backend](https://github.com/nestjs/nest) repository.
+[Nest Media Backend](https://github.com/jofwitsolution/media-backend-nestjs) repository.
 
 ## Git Clone 
 Clone the repository from the git source or download the ZIP file from the repository
 
 ```bash
-$ git clone https://github.com/nestjs/nest
+$ git clone https://github.com/jofwitsolution/media-backend-nestjs.git
 ```
 
 ## Installation
