@@ -11,7 +11,7 @@ import { Media } from './media/media.entity';
       host: 'localhost',
       port: 3306,
       username: 'root',
-      password: 'phemmyte',
+      password: 'database_password',
       database: 'media',
       entities: [Media],
       synchronize: true,
